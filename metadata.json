@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "A professional AI image creation workbench featuring Text-to-Image, Image-to-Image, and VLM-powered prompt analysis with a premium SaaS interface.",
+  "requestFramePermissions": []
+}
